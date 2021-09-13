@@ -1,0 +1,9 @@
+**Employee Login Details** 
+
+Username: berkay
+Password: berkay
+
+**Admin Login Details**
+
+Username: admin
+Password: 123456
